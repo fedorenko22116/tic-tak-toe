@@ -1,0 +1,8 @@
+[package]
+name = "minimax_game"
+version = "0.1.0"
+authors = ["victor <fedorenko22116@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+crossterm = "0.9.2"
